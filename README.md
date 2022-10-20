@@ -1,3 +1,11 @@
+# Usage
+        <h1>im cooool component</h1>
+        <h1>Name: {state.name} </h1>
+        <h1>Email: {state.email} </h1>
+        <button onClick={handleClick}>
+            Lets Modify State
+        </button>
+
 # Better way to handle api
 
     async function ApiCall() {
